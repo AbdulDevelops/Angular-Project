@@ -1,2 +1,2 @@
 # Angular-Project
-Angualr-Basics
+Angular-Basics
